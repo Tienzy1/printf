@@ -15,7 +15,7 @@ This produces output according to a format specifiers,as shown below.
 	printf("Negative:[%d]\n", -762534);
   
   
-	_printf("Unsigned:[%u]\n", ui);
+	_printf("Unsigned:[%u]\n", ui); 
   
   
 	printf("Unsigned:[%u]\n", ui);
