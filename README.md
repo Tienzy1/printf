@@ -65,4 +65,4 @@ This produces output according to a format specifiers,as shown below.
   
 	_printf("Unknown:[%r]\n");
 
-It is developed by **Okokon Etiene** and **Fareedah Musa** from **ALX cohort 5.**
+It is developed by **Etiene Francis** and **Fareedah Musa** from **ALX cohort 5.**
